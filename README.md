@@ -1,6 +1,6 @@
 Front-end mentor challenge 03 - Product preview card. (frontendmentor.io)
 
-Completed by Jacob Roberts on 11/19/23
+Completed on 11/19/23
 
 Notes:
 Sized for desktop at 1440px
